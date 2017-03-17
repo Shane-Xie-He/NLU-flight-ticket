@@ -1,4 +1,4 @@
-#NLU-flight-ticket
+# NLU-flight-ticket
 
 This program is part of [a larger project](https://github.com/weidadeqiangge/CSCI544_Group33/) that aims to build a dialogue system that can interact with the user via voice, and help the user to book a flight ticket. This part of the project aims to build the language understanding module that can extract formatted information from text input.
 
