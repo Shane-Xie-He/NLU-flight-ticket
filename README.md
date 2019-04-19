@@ -7,4 +7,4 @@ There are 3 files in this program:
 * `understand_crf.py` is a machine learning based implementation, which contains all the training, predicting, testing and information extraction code;
 * `gen_utterances.py` is a tool to generate training and testing data for the use of this project.
 
-You can see my [project report](https://github.com/Shane-Xie-He/NLU-flight-ticket/raw/master/Report.pdf) for detailed explanation of my implementation.
+You can see my [project report](/Report.pdf) for detailed explanation of my implementation.
